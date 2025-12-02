@@ -6,7 +6,7 @@ function mostrarCapitulo(cap) {
     conteudo.innerHTML = `
       <h2>Capítulo 1</h2>
       <p>Bem-vind@ para <b>2007</b>! Prepare-se para essa aventura!</p>
-
+      
       <div class="flip-container">
         <img id="paginaAtual" class="pagina scene-borda" src="img/capa.png" alt="Capa">
       </div>
@@ -147,6 +147,7 @@ function mostrarCapitulo(cap) {
     `;
   }
 }
+
 
 
 
