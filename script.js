@@ -1,4 +1,4 @@
-function mostrarCapitulo(cap) {
+function mostrarCapitulo(cap) //ha//
   const conteudo = document.getElementById('conteudo');
 
   // --- CAPÍTULO 1 ---
@@ -147,6 +147,7 @@ function mostrarCapitulo(cap) {
     `;
   }
 }
+
 
 
 
