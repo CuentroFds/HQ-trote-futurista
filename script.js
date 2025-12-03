@@ -66,7 +66,8 @@ function mostrarCapitulo(cap) {
   else if (cap === 3) {
     conteudo.innerHTML = `
       <h2>O Início</h2>
-      <p>Esses eram os primeiros esboços da nossa HQ! Lá em 2022!</p>
+      <p>Esses eram os primeiros esboços da nossa HQ!</p>
+      <p>Alguns feitos nesse mês e outros feitos lá em 2022!</p>
 
       <div class="flip-container">
         <img id="paginaInicio" class="pagina scene-borda" src="img/capa.png" alt="Capa">
@@ -147,6 +148,7 @@ function mostrarCapitulo(cap) {
     `;
   }
 }
+
 
 
 
