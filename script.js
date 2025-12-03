@@ -125,7 +125,7 @@ function mostrarCapitulo(cap) {
       <p>Trote Futurista é uma HQ que mistura aventura e nostalgia dos anos 2000!</p>
       <p>Exploramos universos coloridos, desafios de amigos com viagens no tempo a cada capítulo.</p>
       <p>Cauã, agora com 33 anos, sente saudade de 2007, quando vivia fazendo trotes com Beatriz, Carlos e Verônica no seu flip phone.</p>
-      <p>Um dia, ele encontra seu celular antigo, o mesmo da época, e descobre que a marca brasileira de celulares, e agora falida, tentava criar a viagem no tempo.</p>
+      <p>Um dia, ele encontra seu celular antigo, o mesmo da época, e descobre que a marca brasileira de celulares, e agora falida, BRCel, tentava criar a viagem no tempo.</p>
       <p>Apertando os botões do seu celular, ele ativa acidentalmente um mecanismo real e volta para 2007!</p>
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNxMGtlZmQ5eTBmaTEyMDNqYWxhejVjOHJ5ZDg4bDV0bnkxZ2VoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3GmyBW4esV71rNCnzU/giphy.gif" width="250">
     `;
@@ -148,6 +148,7 @@ function mostrarCapitulo(cap) {
     `;
   }
 }
+
 
 
 
